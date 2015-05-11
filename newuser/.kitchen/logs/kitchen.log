@@ -1,0 +1,3 @@
+I, [2015-05-11T15:10:48.823134 #53357]  INFO -- Kitchen: -----> Starting Kitchen (v1.4.0)
+I, [2015-05-11T15:10:49.042212 #53357]  INFO -- Kitchen: -----> Destroying <default-ubuntu-1204>...
+I, [2015-05-11T15:10:52.201000 #53357]  INFO -- Kitchen: -----> Kitchen is finished. (0m3.38s)
